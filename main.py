@@ -21,7 +21,7 @@ def calculate(*args):
 
 
 
-
+dsdsds
 
 root = Tk()
 root.title("Linear Algebra Solver")
